@@ -125,7 +125,7 @@ const fixedPolygonArray = [
     }
 ];
 ```
-Codes that handle collision detection and response:
+Codes that handle collision detection and response (Both line segments and fixed polygons share the same code):
 ```
 for(const fp of fixedPolygonArray){
   //fixed point and circle check collision
