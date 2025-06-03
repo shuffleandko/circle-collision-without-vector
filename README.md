@@ -4,8 +4,13 @@ A circle (2D ball) elastic collision physics code demo with the following featur
 - Plain JavaScript without other frameworks or libraires (ie : just VanillaJS).
 - All codes are enclosed in a single .html file, which may download and run in browsers directly.
 
-The demo has non-debug (index.html) and debug (index-debug.html) versions:
+The demo has non-debug (index.html) and debug (index-debug.html) versions.
 
+# Live demo
+- index.html : https://shuffleandko.github.io/circle-collision-without-vector/index.html
+- index-debug.html : https://shuffleandko.github.io/circle-collision-without-vector/index-debug.html
+
+# Preview
 | index.html  | index-debug.html |
 | ------------- | ------------- |
 | ![non-debug version](readme_img/img_index.gif)  | ![debug version](readme_img/img_index-debug.gif)  |
